@@ -2,9 +2,8 @@ PiStage Manual Index
 
 .. toctree:: 
     :maxdepth: 2
-    :hidden:
 
-    01. Hardware & Software Requirements
+    01. \ |LINK1|\ 
     02. Installation
     03. PiManager
     04. PiView (updated)
@@ -25,3 +24,9 @@ PiStage Manual Index
 
 
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="chap01.html">Hardware & Software Requirements</a>
+
